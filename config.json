@@ -1,0 +1,6 @@
+{
+  "proxy": {
+    "http": "http://your-proxy-url.com",
+    "https": "http://your-proxy-url.com"
+  }
+}
